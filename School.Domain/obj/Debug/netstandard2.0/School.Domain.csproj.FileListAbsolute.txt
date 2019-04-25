@@ -1,0 +1,9 @@
+F:\Proyectos\netcore2\SchoolCore\School.Domain\bin\Debug\netstandard2.0\School.Domain.deps.json
+F:\Proyectos\netcore2\SchoolCore\School.Domain\bin\Debug\netstandard2.0\School.Domain.dll
+F:\Proyectos\netcore2\SchoolCore\School.Domain\bin\Debug\netstandard2.0\School.Domain.pdb
+F:\Proyectos\netcore2\SchoolCore\School.Domain\obj\Debug\netstandard2.0\School.Domain.csprojAssemblyReference.cache
+F:\Proyectos\netcore2\SchoolCore\School.Domain\obj\Debug\netstandard2.0\School.Domain.csproj.CoreCompileInputs.cache
+F:\Proyectos\netcore2\SchoolCore\School.Domain\obj\Debug\netstandard2.0\School.Domain.AssemblyInfoInputs.cache
+F:\Proyectos\netcore2\SchoolCore\School.Domain\obj\Debug\netstandard2.0\School.Domain.AssemblyInfo.cs
+F:\Proyectos\netcore2\SchoolCore\School.Domain\obj\Debug\netstandard2.0\School.Domain.dll
+F:\Proyectos\netcore2\SchoolCore\School.Domain\obj\Debug\netstandard2.0\School.Domain.pdb
